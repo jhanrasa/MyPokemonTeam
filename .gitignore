@@ -1,2 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# PyInstaller & Build artifacts
+build/
+dist/
+*.spec
+*.manifest
+
+# Temporary & backup files
+BackUp.txt
 /BackUp.txt
+Sprites_para_fazer/
 /Sprites_para_fazer
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
